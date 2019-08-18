@@ -1,2 +1,2 @@
 # n-queens
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+JavaScript implementation of n-queens with front-end interface in HTML/JS/CSS
